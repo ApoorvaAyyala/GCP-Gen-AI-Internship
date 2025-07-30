@@ -76,3 +76,7 @@ Task 4. Experimented with tagline generation code
 • Learnt about the process of identifying possible ethical issues and identify issue spotting questions to think critically about the potential benefits and harms of a use case
 • Learnt about the next steps and resources I can use to continue my responsible AI journey.
 ## Advanced: Generative AI for Developers Learning Path
+### Introduction to Image Generation
+Had a sneak peek about diffusion models - the theory behind diffusion models and how to train and deploy them on Vertex AI. 
+### Attention Mechanism
+Learnt how attention(a powerful technique that allows neural networks to focus on specific parts of an input sequence) works, how it can be used to improve the performance of a variety of machine learning tasks, including machine translation, text summarization and question answering.
