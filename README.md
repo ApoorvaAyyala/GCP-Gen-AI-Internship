@@ -24,7 +24,7 @@ I've learnt to:
 • Identified the need for a responsible AI practice within an organization 
 • Recognized that decisions made at all stages of a project have an impact on responsible AI 
 • Recognized that organizations can design AI to fit their own business needs and values
-### Prompt Design in Vertex AI Labs
+### Prompt Design in Vertex AI: Challenge Lab
 #### Challenge Scenario
 You're a member of an educational content startup specializing in engaging learners with the natural world. You've formed a partnership with Cymbal Direct, an online retailer launching a new line of outdoor gear and apparel designed to encourage young people to explore and connect with nature.
 
@@ -75,8 +75,48 @@ Task 4. Experimented with tagline generation code
 • Learnt about the practical application of responsible AI and how to operationalize AI principles by setting up and running reviews
 • Learnt about the process of identifying possible ethical issues and identify issue spotting questions to think critically about the potential benefits and harms of a use case
 • Learnt about the next steps and resources I can use to continue my responsible AI journey.
+### Transformer Models and BERT Model
+Learnt about the main components of the Transformer architecture, such as the self-attention mechanism, and how it is used to build the BERT model. I've also learnt about the different tasks that BERT can be used for, such as text classification, question answering, and natural language inference.
 ## Advanced: Generative AI for Developers Learning Path
 ### Introduction to Image Generation
 Had a sneak peek about diffusion models - the theory behind diffusion models and how to train and deploy them on Vertex AI. 
 ### Attention Mechanism
 Learnt how attention(a powerful technique that allows neural networks to focus on specific parts of an input sequence) works, how it can be used to improve the performance of a variety of machine learning tasks, including machine translation, text summarization and question answering.
+### Create Image Captioning Models
+Created an image captioning model by using deep learning. Also learned about the different components of an image captioning model, such as the encoder and decoder, and how to train and evaluate your model. Was also able to create your own image captioning models and use them to generate captions for images.
+### Introduction to Vertex AI Studio
+I was introduced Vertex AI Studio, a tool to interact with generative AI models, prototype business ideas, and launch them into production. Through an immersive use case, engaging lessons, and a hands-on lab, I had the chance to explore the prompt-to-product lifecycle and learn how to leverage Vertex AI Studio for Gemini multimodal applications, prompt design, prompt engineering, and model tuning.
+### Vector Search and Embeddings
+Explored AI-powered search technologies, tools, and applications in this course. Learnt semantic search utilizing vector embeddings, hybrid search combining semantic and keyword approaches, and retrieval-augmented generation (RAG) minimizing AI hallucinations as a grounded AI agent. Gained practical experience with Vertex AI Vector Search to build your intelligent search engine.
+### Inspect Rich Documents with Gemini Multimodality and Multimodal RAG: Challenge Lab
+#### Challenge Scenario
+You are a Marketing Campaign Coordinator at a media company, working closely with the Marketing Manager to plan, execute, and evaluate campaigns to meet sales targets. Recently, you secured an exciting new contract with Google. As a Marketing Campaign Coordinator, you’re eager to dive into the materials that will help you familiarize yourself with the Google brand and Google brand identity as quickly as possible. Therefore, you plan to review Google’s brand guidelines, previous campaigns, product ads, customer testimonials, and financial reports by leveraging Gemini’s innovative capabilities to gain deeper insights into Google more efficiently.
+
+In this challenge, you begin with multimodal prompts to extract information from text and visual data, generating a video description, and retrieving extra information beyond the video by using multimodality with Gemini. You also build metadata of documents containing text and images, getting all relevant text chunks, and printing citations by using Multimodal Retrieval Augmented Generation (RAG) with Gemini.
+
+Task 1. Generate multimodal insights with Gemini
+
+Task 2. Retrieve and integrate knowledge with multimodal retrieval augmented generation (RAG)
+
+#### Key Learnings from the above Lab:
+⋆ Interacted with the Gemini API in Vertex AI.
+
+⋆ Used the Gemini Flash model to analyze images and videos.
+
+⋆ Provided Gemini with text, image, and video prompts to generate informative responses.
+
+⋆ Explored practical applications of Gemini's multimodal capabilities.
+
+⋆ Used the Gemini model (gemini-2.0-flash) to perform visual understanding
+
+⋆ Took multimodality into consideration in prompting for the Gemini model
+
+⋆ Created a retail recommendation application using the Gemini model
+
+⋆ Extracted and store metadata of documents containing both text and images, and generate embeddings the documents
+
+⋆ Searched the metadata with text queries to find similar text or images
+
+⋆ Searched the metadata with image queries to find similar images
+
+⋆ Using a text query as input, searched for contextual answers using both text and images
