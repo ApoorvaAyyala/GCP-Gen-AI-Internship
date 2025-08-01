@@ -81,7 +81,9 @@ Had a sneak peek about diffusion models - the theory behind diffusion models and
 ### 2. Attention Mechanism
 Learnt how attention(a powerful technique that allows neural networks to focus on specific parts of an input sequence) works, how it can be used to improve the performance of a variety of machine learning tasks, including machine translation, text summarization and question answering.
 ### 3. Encoder-Decoder Architecture
+Learnt about the stages in encoder-decoder architecture. Applied this technique to feed the source language sentence to the encoder and then compute the error between what the decoder generates and the actual translation.
 
+[https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/main/Encoder-Decoder%20Architecture.ipynb](url)
 ### 4. Transformer Models and BERT Model
 Learnt about the main components of the Transformer architecture, such as the self-attention mechanism, and how it is used to build the BERT model. I've also learnt about the different tasks that BERT can be used for, such as text classification, question answering, and natural language inference.
 
