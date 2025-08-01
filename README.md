@@ -136,5 +136,16 @@ I've learnt to:
 • Applied MinDiff technique using TensorFlow Model Remediation library
 • Compared the result between the baseline and MinDiff models
 
+[https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/main/Mitigate%20Bias%20with%20MinDiff%20in%20TensorFlow.ipynb](url)
 #### Mitigate Bias with MinDiff in TensorFlow Lab's Key Takeaways:
 
+Got to know Google's seven AI principles:
+1. Be socially beneficial; 
+2. Avoid creating or reinforcing unfair bias; 
+3. Be built and tested for safety; 
+4. Be accountable to people; 
+5. Incorporate privacy design principles; 
+6. Uphold high standards of scientific excellence; 
+7. Be made available for uses that accord with these principles.
+
+Learned about techniques that help mitigate bias - the refining data collection pipeline, balancing data, augmenting with other data, and relabeling data techniques all help mitigate bias in data and threshold calibration, MinDiff and counterfactual logic pairing help mitigate bias in models.
