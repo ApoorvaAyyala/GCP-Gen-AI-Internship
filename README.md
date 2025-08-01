@@ -104,6 +104,7 @@ Task 1. Generate multimodal insights with Gemini
 
 Task 2. Retrieve and integrate knowledge with multimodal retrieval augmented generation (RAG)
 
+[https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/main/inspect_rich_documents_w_gemini_multimodality_and_multimodal_rag-v1.0.0.ipynb](url)
 #### Key Learnings from the above Lab:
 ⋆ Interacted with the Gemini API in Vertex AI.
 
