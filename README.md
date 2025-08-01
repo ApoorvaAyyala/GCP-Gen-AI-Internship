@@ -128,3 +128,13 @@ Task 2. Retrieve and integrate knowledge with multimodal retrieval augmented gen
 
 ⋆ Using a text query as input, searched for contextual answers using both text and images
 ### 9. Responsible AI for Developers: Fairness & Bias
+I've learnt to:
+
+• Explored the toxicity text dataset
+• Built and train a toxicity classification model
+• Checked the model bias by plotting the prediction results
+• Applied MinDiff technique using TensorFlow Model Remediation library
+• Compared the result between the baseline and MinDiff models
+
+#### Mitigate Bias with MinDiff in TensorFlow Lab's Key Takeaways:
+
