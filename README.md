@@ -159,6 +159,7 @@ I've been introduced to:
 • Also gained knowledge around concept based explanations such as TCAV, which aims to provide explanations
 • Explored a few interpretability tools such as Open Source Library SHAP, Learning Interpretability Tool, and Vertex Explainable AI, as well as a few transparency tools such as data cards for data transparency and model cards for model transparency.
 
+[https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/main/Responsible%20AI%20for%20Developers_Interpretability%20and%20Transparency.pdf](url)
 #### Explaining an Image Classification Model with Vertex Explainable AI Lab's Key Takeaways:
 Got a hands on experience on:
 1. How to build and train a custom image classification model with Vertex AI;
