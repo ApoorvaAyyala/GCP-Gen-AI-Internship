@@ -149,3 +149,19 @@ Got to know Google's seven AI principles:
 7. Be made available for uses that accord with these principles.
 
 Learned about techniques that help mitigate bias - the refining data collection pipeline, balancing data, augmenting with other data, and relabeling data techniques all help mitigate bias in data and threshold calibration, MinDiff and counterfactual logic pairing help mitigate bias in models.
+### 10. Responsible AI for Developers: Interpretability & Transparency
+I've been introduced to:
+
+• Interpretability and transparency in AI -  fourth of Google's AI principles
+• Learned about interpretability techniques and how they are categorized into feature based, concept based, and example based methods
+• Learned about feature based explanations where there are global techniques such as permutation, feature importance and partial dependence plots
+• Learned about local methods such as LIME, Shapley values, Integrated gradients, and XR AI
+• Also gained knowledge around concept based explanations such as TCAV, which aims to provide explanations
+• Explored a few interpretability tools such as Open Source Library SHAP, Learning Interpretability Tool, and Vertex Explainable AI, as well as a few transparency tools such as data cards for data transparency and model cards for model transparency.
+
+#### Explaining an Image Classification Model with Vertex Explainable AI Lab's Key Takeaways:
+Got a hands on experience on:
+1. How to build and train a custom image classification model with Vertex AI;
+2. Deployed the model to an endpoint;
+3. Served predictions with explanations;
+4. Visualized feature attributions from Integrated Gradients.
