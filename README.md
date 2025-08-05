@@ -176,7 +176,7 @@ This course introduced me to the important topics of AI privacy and safety.
 2. Practice checking hyperparameters introduced by differentially private machine learning;
 3. Measure the privacy guarantee provided using analysis tools included in TensorFlow Privacy.
 #### Safeguarding with Vertex AI Gemini API Lab's Keytaakeaways:
-
+[https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/main/Safeguarding%20with%20Vertex%20AI%20Gemini%20API.pdf](url)
 
 1. Call the Vertex AI Gemini API and inspect safety ratings of the responses
 2. Define a threshold for filtering safety ratings according to your needs
