@@ -178,8 +178,8 @@ This course introduced me to the important topics of AI privacy and safety.
 #### Safeguarding with Vertex AI Gemini API Lab's Keytaakeaways:
 [https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/main/Safeguarding%20with%20Vertex%20AI%20Gemini%20API.pdf](url)
 
-1. Call the Vertex AI Gemini API and inspect safety ratings of the responses
-2. Define a threshold for filtering safety ratings according to your needs
+1. Called the Vertex AI Gemini API and inspect safety ratings of the responses
+2. Defined a threshold for filtering safety ratings according to needs
 
 ### 12 Machine Learning Operations (MLOps) for Generative AI
 • I have recognized the evolution of MOps and its pivotal role in shaping the future of AI development
