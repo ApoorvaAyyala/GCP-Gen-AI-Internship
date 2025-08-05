@@ -182,3 +182,6 @@ This course introduced me to the important topics of AI privacy and safety.
 2. Define a threshold for filtering safety ratings according to your needs
 
 ### 12 Machine Learning Operations (MLOps) for Generative AI
+• I have recognized the evolution of MOps and its pivotal role in shaping the future of AI development
+• Explored the emerging framework of ML Ops, specifically tailored for generative AI applications, and explained the unique challenges faced by MLOps teams when deploying and managing these models
+• Equipped with this knowledge, I have explored how Vertex AI empowers teams to streamline MLOps processes and achieve success with generative AI projects.
