@@ -170,7 +170,7 @@ Got a hands on experience on:
 ### Responsible AI for Developers: Privacy & Safety
 This course introduced me to the important topics of AI privacy and safety.
 #### Differential Privacy in Machine Learning with TensorFlow Privacy Lab's Keytakeaways:
-
+[https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/main/Differential%20Privacy%20in%20Machine%20Learning%20with%20TensorFlow%20Privacy.pdf](url)
 
 1. Wrap existing optimizers into their differentially private counterparts using TensorFlow Privacy;
 2. Practice checking hyperparameters introduced by differentially private machine learning;
