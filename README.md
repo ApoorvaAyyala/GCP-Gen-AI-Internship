@@ -167,7 +167,7 @@ Got a hands on experience on:
 3. Served predictions with explanations;
 4. Visualized feature attributions from Integrated Gradients.
 
-### Responsible AI for Developers: Privacy & Safety
+### 11 Responsible AI for Developers: Privacy & Safety
 This course introduced me to the important topics of AI privacy and safety.
 #### Differential Privacy in Machine Learning with TensorFlow Privacy Lab's Keytakeaways:
 [https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/main/Differential%20Privacy%20in%20Machine%20Learning%20with%20TensorFlow%20Privacy.pdf](url)
@@ -181,4 +181,4 @@ This course introduced me to the important topics of AI privacy and safety.
 1. Call the Vertex AI Gemini API and inspect safety ratings of the responses
 2. Define a threshold for filtering safety ratings according to your needs
 
-### Machine Learning Operations (MLOps) for Generative AI
+### 12 Machine Learning Operations (MLOps) for Generative AI
