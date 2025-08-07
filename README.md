@@ -185,3 +185,11 @@ This course introduced me to the important topics of AI privacy and safety.
 • I have recognized the evolution of MOps and its pivotal role in shaping the future of AI development
 • Explored the emerging framework of ML Ops, specifically tailored for generative AI applications, and explained the unique challenges faced by MLOps teams when deploying and managing these models
 • Equipped with this knowledge, I have explored how Vertex AI empowers teams to streamline MLOps processes and achieve success with generative AI projects.
+## Gemini for Google Cloud Learning Path
+### 1 Gemini for Application Developers
+#### Develop an app with Gemini Lab's Keytakeaways:
+1. Create a cloud-based application development environment by using Cloud Workstations;
+2. Explore various Google services that you can use to deploy an app by asking Gemini context-based questions;
+3. Prompt Gemini to provide templates that you can use to develop a basic app in Cloud Run;
+4. Create, explore, and modify the app by using Gemini to explain and generate the code;
+5. Run and test the app locally, and then deploy it to Google Cloud by using Gemini to generate the steps.
