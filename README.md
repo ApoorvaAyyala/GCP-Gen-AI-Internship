@@ -128,7 +128,7 @@ Task 1. Generate multimodal insights with Gemini
 
 Task 2. Retrieve and integrate knowledge with multimodal retrieval augmented generation (RAG)
 
-[Inspect Rich Documents with Gemini Multimodality & Multimodal RAG](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/main/inspect_rich_documents_w_gemini_multimodality_and_multimodal_rag-v1.0.0.ipynb)
+Jupyter File: [Inspect Rich Documents with Gemini Multimodality & Multimodal RAG](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/main/inspect_rich_documents_w_gemini_multimodality_and_multimodal_rag-v1.0.0.ipynb)
 #### Key Learnings from the above Lab:
 ⋆ Interacted with the Gemini API in Vertex AI.
 
@@ -162,7 +162,7 @@ I've learnt to:
 • Applied MinDiff technique using TensorFlow Model Remediation library
 • Compared the result between the baseline and MinDiff models
 
-[Mitigate Bias with MinDiff in Tensorflow](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/main/Mitigate%20Bias%20with%20MinDiff%20in%20TensorFlow.ipynb)
+Jupyter File: [Mitigate Bias with MinDiff in Tensorflow](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/main/Mitigate%20Bias%20with%20MinDiff%20in%20TensorFlow.ipynb)
 
 #### Mitigate Bias with MinDiff in TensorFlow Lab's Key Takeaways:
 Got to know Google's seven AI principles:
@@ -199,13 +199,13 @@ Skill Badge: [Responsible AI for Developers: Interpretability & Transparency](ht
 ### 11 Responsible AI for Developers: Privacy & Safety
 This course introduced me to the important topics of AI privacy and safety.
 #### Differential Privacy in Machine Learning with TensorFlow Privacy Lab's Keytakeaways:
-[Differential Privacy in ML with Tensorflow Privacy](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/main/Differential%20Privacy%20in%20Machine%20Learning%20with%20TensorFlow%20Privacy.pdf)
+Pdf File: [Differential Privacy in ML with Tensorflow Privacy](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/main/Differential%20Privacy%20in%20Machine%20Learning%20with%20TensorFlow%20Privacy.pdf)
 
 1. Wrap existing optimizers into their differentially private counterparts using TensorFlow Privacy;
 2. Practice checking hyperparameters introduced by differentially private machine learning;
 3. Measure the privacy guarantee provided using analysis tools included in TensorFlow Privacy.
 #### Safeguarding with Vertex AI Gemini API Lab's Keytaakeaways:
-[Safeguarding with Vertex AI, Gemini AI API](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/main/Safeguarding%20with%20Vertex%20AI%20Gemini%20API.pdf)
+Pdf File: [Safeguarding with Vertex AI, Gemini AI API](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/main/Safeguarding%20with%20Vertex%20AI%20Gemini%20API.pdf)
 
 1. Called the Vertex AI Gemini API and inspect safety ratings of the responses
 2. Defined a threshold for filtering safety ratings according to needs
@@ -226,7 +226,7 @@ Skill Badge: [Machine Learning Operations (MLOps) for Generative AI](https://www
 4. Create, explore, and modify the app by using Gemini to explain and generate the code;
 5. Run and test the app locally, and then deploy it to Google Cloud by using Gemini to generate the steps.
 
-Files:
+Python Files:
 
 [app.py](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/1bb32a3af84cfa6814ba652b476a42ed520b45c7/app.py)
 
