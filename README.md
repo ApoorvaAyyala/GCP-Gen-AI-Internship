@@ -83,11 +83,11 @@ Learnt how attention(a powerful technique that allows neural networks to focus o
 ### 03. Encoder-Decoder Architecture
 Learnt about the stages in encoder-decoder architecture. Applied this technique to feed the source language sentence to the encoder and then compute the error between what the decoder generates and the actual translation.
 
-[https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/main/Encoder-Decoder%20Architecture.ipynb](url)
+[Encoder-Decoder Architecture](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/main/Encoder-Decoder%20Architecture.ipynb)
 ### 04. Transformer Models and BERT Model
 Learnt about the main components of the Transformer architecture, such as the self-attention mechanism, and how it is used to build the BERT model. I've also learnt about the different tasks that BERT can be used for, such as text classification, question answering, and natural language inference.
 
-[https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/main/Transformer%20Models%20and%20BERT%20Model](url)
+[Transformer Models and BERT Model](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/main/Transformer%20Models%20and%20BERT%20Model)
 ### 05. Create Image Captioning Models
 Created an image captioning model by using deep learning. Also learned about the different components of an image captioning model, such as the encoder and decoder, and how to train and evaluate your model. Was also able to create your own image captioning models and use them to generate captions for images.
 ### 06. Introduction to Vertex AI Studio
@@ -104,7 +104,7 @@ Task 1. Generate multimodal insights with Gemini
 
 Task 2. Retrieve and integrate knowledge with multimodal retrieval augmented generation (RAG)
 
-[https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/main/inspect_rich_documents_w_gemini_multimodality_and_multimodal_rag-v1.0.0.ipynb](url)
+[Inspect Rich Documents with Gemini Multimodality & Multimodal RAG](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/main/inspect_rich_documents_w_gemini_multimodality_and_multimodal_rag-v1.0.0.ipynb)
 #### Key Learnings from the above Lab:
 ⋆ Interacted with the Gemini API in Vertex AI.
 
@@ -136,7 +136,7 @@ I've learnt to:
 • Applied MinDiff technique using TensorFlow Model Remediation library
 • Compared the result between the baseline and MinDiff models
 
-[https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/main/Mitigate%20Bias%20with%20MinDiff%20in%20TensorFlow.ipynb](url)
+[Mitigate Bias with MinDiff in Tensorflow](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/main/Mitigate%20Bias%20with%20MinDiff%20in%20TensorFlow.ipynb)
 #### Mitigate Bias with MinDiff in TensorFlow Lab's Key Takeaways:
 
 Got to know Google's seven AI principles:
@@ -159,7 +159,7 @@ I've been introduced to:
 • Also gained knowledge around concept based explanations such as TCAV, which aims to provide explanations
 • Explored a few interpretability tools such as Open Source Library SHAP, Learning Interpretability Tool, and Vertex Explainable AI, as well as a few transparency tools such as data cards for data transparency and model cards for model transparency.
 
-[https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/main/Responsible%20AI%20for%20Developers_Interpretability%20and%20Transparency.pdf](url)
+[Responsible AI for Developers, Interpretibility and Tranparency](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/main/Responsible%20AI%20for%20Developers_Interpretability%20and%20Transparency.pdf)
 #### Explaining an Image Classification Model with Vertex Explainable AI Lab's Key Takeaways:
 Got a hands on experience on:
 1. How to build and train a custom image classification model with Vertex AI;
@@ -170,13 +170,13 @@ Got a hands on experience on:
 ### 11 Responsible AI for Developers: Privacy & Safety
 This course introduced me to the important topics of AI privacy and safety.
 #### Differential Privacy in Machine Learning with TensorFlow Privacy Lab's Keytakeaways:
-[https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/main/Differential%20Privacy%20in%20Machine%20Learning%20with%20TensorFlow%20Privacy.pdf](url)
+[Differential Privacy in ML with Tensorflow Privacy](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/main/Differential%20Privacy%20in%20Machine%20Learning%20with%20TensorFlow%20Privacy.pdf)
 
 1. Wrap existing optimizers into their differentially private counterparts using TensorFlow Privacy;
 2. Practice checking hyperparameters introduced by differentially private machine learning;
 3. Measure the privacy guarantee provided using analysis tools included in TensorFlow Privacy.
 #### Safeguarding with Vertex AI Gemini API Lab's Keytaakeaways:
-[https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/main/Safeguarding%20with%20Vertex%20AI%20Gemini%20API.pdf](url)
+[Safeguarding with Vertex AI, Gemini AI API](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/main/Safeguarding%20with%20Vertex%20AI%20Gemini%20API.pdf)
 
 1. Called the Vertex AI Gemini API and inspect safety ratings of the responses
 2. Defined a threshold for filtering safety ratings according to needs
