@@ -193,7 +193,7 @@ This course introduced me to the important topics of AI privacy and safety.
 3. Prompt Gemini to provide templates that you can use to develop a basic app in Cloud Run;
 4. Create, explore, and modify the app by using Gemini to explain and generate the code;
 5. Run and test the app locally, and then deploy it to Google Cloud by using Gemini to generate the steps.
-![Alt text]([path/to/image](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/7eeb8218b4d1f65e580e225278c50dcfca96e7a9/My_Workstation.png)
-My Wrokstation
+![Alt text]([path/to/image](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/7eeb8218b4d1f65e580e225278c50dcfca96e7a9/My_Workstation.png))
+My Workstation
 ![Alt text](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/7eeb8218b4d1f65e580e225278c50dcfca96e7a9/Deploy_Test.png)
 Testing the app after deploying locally
