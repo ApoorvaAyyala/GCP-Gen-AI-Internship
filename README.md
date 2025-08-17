@@ -12,6 +12,8 @@ I've learnt to:
 • Explain how generative AI works
 • Describe generative AI model types
 • Describe generative AI applications.
+
+Skill Badge: [Introduction to Generative AI](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/6222225)
 ### 02. Introduction to Large Language Models
 I've learnt to:
 
@@ -197,10 +199,12 @@ This course introduced me to the important topics of AI privacy and safety.
 Files:
 
 [app.py](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/1bb32a3af84cfa6814ba652b476a42ed520b45c7/app.py)
+
 [Inventory.py](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/1bb32a3af84cfa6814ba652b476a42ed520b45c7/inventory.py)
 
+#### My Workstation:
 ![Alt text](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/43a78657ce5483119ada60e4b8eba560bdd2bf32/My_Workstation.png)
-#### My Workstation
-![Alt text](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/7eeb8218b4d1f65e580e225278c50dcfca96e7a9/Deploy_Test.png)
-#### Testing the app after deploying locally
 
+#### Testing the app after deploying locally:
+![Alt text](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/7eeb8218b4d1f65e580e225278c50dcfca96e7a9/Deploy_Test.png)
+### 02 Gemini for Cloud Architects
