@@ -5,26 +5,26 @@ In this virtual internship, I've had 3 main modules.
 The Modules include Beginner: Introduction to Generative AI Learning Path, Advanced: Generative AI for Developers Learning Path & lastly, Gemini for Google Cloud Learning Path
 
 ## Beginner: Introduction to Generative AI Learning Path
-### 1. Introduction to Generative AI
+### 01. Introduction to Generative AI
 I've learnt to:
 
 • Define generative AI
 • Explain how generative AI works
 • Describe generative AI model types
 • Describe generative AI applications.
-### 2. Introduction to Large Language Models
+### 02. Introduction to Large Language Models
 I've learnt to:
 
 • Define Large Language Models (LLMs)
 • Describe LLM Use Cases
 • Dxplain Prompt Tuning 
 • Describe Google’s Gen AI Development tools
-### 3. Introduction to Responsible AI
+### 03. Introduction to Responsible AI
 • Understood why Google has put AI principles in place
 • Identified the need for a responsible AI practice within an organization 
 • Recognized that decisions made at all stages of a project have an impact on responsible AI 
 • Recognized that organizations can design AI to fit their own business needs and values
-### 4. Prompt Design in Vertex AI: Challenge Lab
+### 04. Prompt Design in Vertex AI: Challenge Lab
 #### Challenge Scenario
 You're a member of an educational content startup specializing in engaging learners with the natural world. You've formed a partnership with Cymbal Direct, an online retailer launching a new line of outdoor gear and apparel designed to encourage young people to explore and connect with nature.
 
@@ -67,7 +67,7 @@ Task 4. Experimented with tagline generation code
 ⋆ Managed model interactions (multi-turn chat, content streaming, asynchronous requests).
 
 ⋆ Used advanced features (token counting, context caching, function calling, batch prediction, text embeddings).
-### 5. Responsible AI: Applying AI Principles with Google Cloud
+### 05. Responsible AI: Applying AI Principles with Google Cloud
 • Learnt about the impact of AI technology and Google's approach to responsible AI, and was also introduced to Google's AI Principles
 • Learnt about how to make a business case for responsible AI, based on the report 'The Business Case for Ethics by Design' by the Economist Intelligence Unit
 • Learnt about ethical dilemmas and how emerging technology such as generative AI can surface ethical concerns that need to be addressed
@@ -76,25 +76,25 @@ Task 4. Experimented with tagline generation code
 • Learnt about the process of identifying possible ethical issues and identify issue spotting questions to think critically about the potential benefits and harms of a use case
 • Learnt about the next steps and resources I can use to continue my responsible AI journey.
 ## Advanced: Generative AI for Developers Learning Path
-### 1. Introduction to Image Generation
+### 01. Introduction to Image Generation
 Had a sneak peek about diffusion models - the theory behind diffusion models and how to train and deploy them on Vertex AI. 
-### 2. Attention Mechanism
+### 02. Attention Mechanism
 Learnt how attention(a powerful technique that allows neural networks to focus on specific parts of an input sequence) works, how it can be used to improve the performance of a variety of machine learning tasks, including machine translation, text summarization and question answering.
-### 3. Encoder-Decoder Architecture
+### 03. Encoder-Decoder Architecture
 Learnt about the stages in encoder-decoder architecture. Applied this technique to feed the source language sentence to the encoder and then compute the error between what the decoder generates and the actual translation.
 
 [https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/main/Encoder-Decoder%20Architecture.ipynb](url)
-### 4. Transformer Models and BERT Model
+### 04. Transformer Models and BERT Model
 Learnt about the main components of the Transformer architecture, such as the self-attention mechanism, and how it is used to build the BERT model. I've also learnt about the different tasks that BERT can be used for, such as text classification, question answering, and natural language inference.
 
 [https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/main/Transformer%20Models%20and%20BERT%20Model](url)
-### 5. Create Image Captioning Models
+### 05. Create Image Captioning Models
 Created an image captioning model by using deep learning. Also learned about the different components of an image captioning model, such as the encoder and decoder, and how to train and evaluate your model. Was also able to create your own image captioning models and use them to generate captions for images.
-### 6. Introduction to Vertex AI Studio
+### 06. Introduction to Vertex AI Studio
 I was introduced Vertex AI Studio, a tool to interact with generative AI models, prototype business ideas, and launch them into production. Through an immersive use case, engaging lessons, and a hands-on lab, I had the chance to explore the prompt-to-product lifecycle and learn how to leverage Vertex AI Studio for Gemini multimodal applications, prompt design, prompt engineering, and model tuning.
-### 7. Vector Search and Embeddings
+### 07. Vector Search and Embeddings
 Explored AI-powered search technologies, tools, and applications in this course. Learnt semantic search utilizing vector embeddings, hybrid search combining semantic and keyword approaches, and retrieval-augmented generation (RAG) minimizing AI hallucinations as a grounded AI agent. Gained practical experience with Vertex AI Vector Search to build your intelligent search engine.
-### 8. Inspect Rich Documents with Gemini Multimodality and Multimodal RAG: Challenge Lab
+### 08. Inspect Rich Documents with Gemini Multimodality and Multimodal RAG: Challenge Lab
 #### Challenge Scenario
 You are a Marketing Campaign Coordinator at a media company, working closely with the Marketing Manager to plan, execute, and evaluate campaigns to meet sales targets. Recently, you secured an exciting new contract with Google. As a Marketing Campaign Coordinator, you’re eager to dive into the materials that will help you familiarize yourself with the Google brand and Google brand identity as quickly as possible. Therefore, you plan to review Google’s brand guidelines, previous campaigns, product ads, customer testimonials, and financial reports by leveraging Gemini’s innovative capabilities to gain deeper insights into Google more efficiently.
 
@@ -127,7 +127,7 @@ Task 2. Retrieve and integrate knowledge with multimodal retrieval augmented gen
 ⋆ Searched the metadata with image queries to find similar images
 
 ⋆ Using a text query as input, searched for contextual answers using both text and images
-### 9. Responsible AI for Developers: Fairness & Bias
+### 09. Responsible AI for Developers: Fairness & Bias
 I've learnt to:
 
 • Explored the toxicity text dataset
@@ -186,7 +186,7 @@ This course introduced me to the important topics of AI privacy and safety.
 • Explored the emerging framework of ML Ops, specifically tailored for generative AI applications, and explained the unique challenges faced by MLOps teams when deploying and managing these models
 • Equipped with this knowledge, I have explored how Vertex AI empowers teams to streamline MLOps processes and achieve success with generative AI projects.
 ## Gemini for Google Cloud Learning Path
-### 1 Gemini for Application Developers
+### 01 Gemini for Application Developers
 #### Develop an app with Gemini Lab's Keytakeaways:
 1. Created a cloud-based application development environment by using Cloud Workstations;
 2. Explore various Google services that you can use to deploy an app by asking Gemini context-based questions;
