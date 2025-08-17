@@ -152,7 +152,7 @@ Jupyter File: [Inspect Rich Documents with Gemini Multimodality & Multimodal RAG
 
 ⋆ Using a text query as input, searched for contextual answers using both text and images
 
-Skill Badge: [Inspect Rich Documents with Gemini Multimodality and Multimodal RAG](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17212927)
+###### Skill Badge: [Inspect Rich Documents with Gemini Multimodality and Multimodal RAG](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17212927)
 ### 09. Responsible AI for Developers: Fairness & Bias
 I've learnt to:
 
@@ -176,7 +176,7 @@ Got to know Google's seven AI principles:
 
 Learned about techniques that help mitigate bias - the refining data collection pipeline, balancing data, augmenting with other data, and relabeling data techniques all help mitigate bias in data and threshold calibration, MinDiff and counterfactual logic pairing help mitigate bias in models.
 
-Skill Badge: [Responsible AI for Developers: Fairness & Bias](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17262676)
+###### Skill Badge: [Responsible AI for Developers: Fairness & Bias](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17262676)
 ### 10. Responsible AI for Developers: Interpretability & Transparency
 I've been introduced to:
 
@@ -195,7 +195,7 @@ Got a hands on experience on:
 3. Served predictions with explanations;
 4. Visualized feature attributions from Integrated Gradients.
 
-Skill Badge: [Responsible AI for Developers: Interpretability & Transparency](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17271639)
+###### Skill Badge: [Responsible AI for Developers: Interpretability & Transparency](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17271639)
 ### 11 Responsible AI for Developers: Privacy & Safety
 This course introduced me to the important topics of AI privacy and safety.
 #### Differential Privacy in Machine Learning with TensorFlow Privacy Lab's Keytakeaways:
@@ -210,13 +210,13 @@ Pdf File: [Safeguarding with Vertex AI, Gemini AI API](https://github.com/Apoorv
 1. Called the Vertex AI Gemini API and inspect safety ratings of the responses
 2. Defined a threshold for filtering safety ratings according to needs
 
-Skill Badge: [Responsible AI for Developers: Privacy & Safety](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17320031)
+###### Skill Badge: [Responsible AI for Developers: Privacy & Safety](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17320031)
 ### 12 Machine Learning Operations (MLOps) for Generative AI
 • I have recognized the evolution of MOps and its pivotal role in shaping the future of AI development
 • Explored the emerging framework of ML Ops, specifically tailored for generative AI applications, and explained the unique challenges faced by MLOps teams when deploying and managing these models
 • Equipped with this knowledge, I have explored how Vertex AI empowers teams to streamline MLOps processes and achieve success with generative AI projects.
 
-Skill Badge: [Machine Learning Operations (MLOps) for Generative AI](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17320088)
+###### Skill Badge: [Machine Learning Operations (MLOps) for Generative AI](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17320088)
 ## Gemini for Google Cloud Learning Path
 ### 01 Gemini for Application Developers
 #### Develop an app with Gemini Lab's Keytakeaways:
@@ -238,5 +238,5 @@ Python Files:
 #### Testing the app after deploying locally:
 ![Alt text](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/7eeb8218b4d1f65e580e225278c50dcfca96e7a9/Deploy_Test.png)
 
-Skill Badge: [Gemini for Application Developers](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17596499)
+###### Skill Badge: [Gemini for Application Developers](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17596499)
 ### 02 Gemini for Cloud Architects
