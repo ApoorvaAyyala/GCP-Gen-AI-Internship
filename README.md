@@ -194,7 +194,13 @@ This course introduced me to the important topics of AI privacy and safety.
 4. Create, explore, and modify the app by using Gemini to explain and generate the code;
 5. Run and test the app locally, and then deploy it to Google Cloud by using Gemini to generate the steps.
 
+Files:
+[app.py](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/1bb32a3af84cfa6814ba652b476a42ed520b45c7/app.py)
+
+[Inventory.py](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/1bb32a3af84cfa6814ba652b476a42ed520b45c7/inventory.py)
+
 ![Alt text](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/43a78657ce5483119ada60e4b8eba560bdd2bf32/My_Workstation.png)
 #### My Workstation
 ![Alt text](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/7eeb8218b4d1f65e580e225278c50dcfca96e7a9/Deploy_Test.png)
 #### Testing the app after deploying locally
+
