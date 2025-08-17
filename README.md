@@ -97,13 +97,13 @@ Skill badge: [Attention Mechanism](https://www.cloudskillsboost.google/public_pr
 ### 03. Encoder-Decoder Architecture
 Learnt about the stages in encoder-decoder architecture. Applied this technique to feed the source language sentence to the encoder and then compute the error between what the decoder generates and the actual translation.
 
-[Encoder-Decoder Architecture](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/main/Encoder-Decoder%20Architecture.ipynb)
+Jupyter File: [Encoder-Decoder Architecture](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/main/Encoder-Decoder%20Architecture.ipynb)
 
 Skill Badge: [Encoder-Decoder Architecture](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17121943)
 ### 04. Transformer Models and BERT Model
 Learnt about the main components of the Transformer architecture, such as the self-attention mechanism, and how it is used to build the BERT model. I've also learnt about the different tasks that BERT can be used for, such as text classification, question answering, and natural language inference.
 
-[Transformer Models and BERT Model](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/main/Transformer%20Models%20and%20BERT%20Model)
+Jupyter File: [Transformer Models and BERT Model](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/main/Transformer%20Models%20and%20BERT%20Model)
 
 Skill Badge : [Transformer Models and BERT Model](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17136271)
 ### 05. Create Image Captioning Models
