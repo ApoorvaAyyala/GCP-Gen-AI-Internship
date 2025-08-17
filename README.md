@@ -13,7 +13,7 @@ I've learnt to:
 • Describe generative AI model types
 • Describe generative AI applications.
 
-Skill Badge: [Introduction to Generative AI](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/6222225)
+###### Skill Badge: [Introduction to Generative AI](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/6222225)
 ### 02. Introduction to Large Language Models
 I've learnt to:
 
@@ -22,14 +22,14 @@ I've learnt to:
 • Dxplain Prompt Tuning 
 • Describe Google’s Gen AI Development tools
 
-Skill Badge: [Introduction to Large Language Models](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/6221528)
+###### Skill Badge: [Introduction to Large Language Models](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/6221528)
 ### 03. Introduction to Responsible AI
 • Understood why Google has put AI principles in place
 • Identified the need for a responsible AI practice within an organization 
 • Recognized that decisions made at all stages of a project have an impact on responsible AI 
 • Recognized that organizations can design AI to fit their own business needs and values
 
-Skill Badge: [Introduction to Responsible AI](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/6222597)
+###### Skill Badge: [Introduction to Responsible AI](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/6222597)
 ### 04. Prompt Design in Vertex AI: Challenge Lab
 #### Challenge Scenario
 You're a member of an educational content startup specializing in engaging learners with the natural world. You've formed a partnership with Cymbal Direct, an online retailer launching a new line of outdoor gear and apparel designed to encourage young people to explore and connect with nature.
@@ -74,7 +74,7 @@ Task 4. Experimented with tagline generation code
 
 ⋆ Used advanced features (token counting, context caching, function calling, batch prediction, text embeddings).
 
-Skill Badge: [Prompt Design in Vertex AI](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17089663)
+###### Skill Badge: [Prompt Design in Vertex AI](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17089663)
 ### 05. Responsible AI: Applying AI Principles with Google Cloud
 • Learnt about the impact of AI technology and Google's approach to responsible AI, and was also introduced to Google's AI Principles
 • Learnt about how to make a business case for responsible AI, based on the report 'The Business Case for Ethics by Design' by the Economist Intelligence Unit
@@ -84,40 +84,40 @@ Skill Badge: [Prompt Design in Vertex AI](https://www.cloudskillsboost.google/pu
 • Learnt about the process of identifying possible ethical issues and identify issue spotting questions to think critically about the potential benefits and harms of a use case
 • Learnt about the next steps and resources I can use to continue my responsible AI journey.
 
-Skill Badge: [Applying AI Principles with Google Cloud](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17096193)
+###### Skill Badge: [Applying AI Principles with Google Cloud](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17096193)
 ## Advanced: Generative AI for Developers Learning Path
 ### 01. Introduction to Image Generation
 Had a sneak peek about diffusion models - the theory behind diffusion models and how to train and deploy them on Vertex AI. 
 
-Skill badge: [Introduction to Image Generation](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17121495)
+###### Skill badge: [Introduction to Image Generation](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17121495)
 ### 02. Attention Mechanism
 Learnt how attention(a powerful technique that allows neural networks to focus on specific parts of an input sequence) works, how it can be used to improve the performance of a variety of machine learning tasks, including machine translation, text summarization and question answering.
 
-Skill badge: [Attention Mechanism](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17121734)
+###### Skill badge: [Attention Mechanism](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17121734)
 ### 03. Encoder-Decoder Architecture
 Learnt about the stages in encoder-decoder architecture. Applied this technique to feed the source language sentence to the encoder and then compute the error between what the decoder generates and the actual translation.
 
 Jupyter File: [Encoder-Decoder Architecture](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/main/Encoder-Decoder%20Architecture.ipynb)
 
-Skill Badge: [Encoder-Decoder Architecture](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17121943)
+###### Skill Badge: [Encoder-Decoder Architecture](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17121943)
 ### 04. Transformer Models and BERT Model
 Learnt about the main components of the Transformer architecture, such as the self-attention mechanism, and how it is used to build the BERT model. I've also learnt about the different tasks that BERT can be used for, such as text classification, question answering, and natural language inference.
 
 Jupyter File: [Transformer Models and BERT Model](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/main/Transformer%20Models%20and%20BERT%20Model)
 
-Skill Badge : [Transformer Models and BERT Model](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17136271)
+###### Skill Badge : [Transformer Models and BERT Model](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17136271)
 ### 05. Create Image Captioning Models
 Created an image captioning model by using deep learning. Also learned about the different components of an image captioning model, such as the encoder and decoder, and how to train and evaluate your model. Was also able to create your own image captioning models and use them to generate captions for images.
 
-Skill Badge: [Create Image Captioning Models](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17173141)
+###### Skill Badge: [Create Image Captioning Models](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17173141)
 ### 06. Introduction to Vertex AI Studio
 I was introduced Vertex AI Studio, a tool to interact with generative AI models, prototype business ideas, and launch them into production. Through an immersive use case, engaging lessons, and a hands-on lab, I had the chance to explore the prompt-to-product lifecycle and learn how to leverage Vertex AI Studio for Gemini multimodal applications, prompt design, prompt engineering, and model tuning.
 
-Skill Badge: [Introduction to Vertex AI Studio](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17173350)
+###### Skill Badge: [Introduction to Vertex AI Studio](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17173350)
 ### 07. Vector Search and Embeddings
 Explored AI-powered search technologies, tools, and applications in this course. Learnt semantic search utilizing vector embeddings, hybrid search combining semantic and keyword approaches, and retrieval-augmented generation (RAG) minimizing AI hallucinations as a grounded AI agent. Gained practical experience with Vertex AI Vector Search to build your intelligent search engine.
 
-Skill Badge: [Vector Search and Embeddings](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17190494)
+###### Skill Badge: [Vector Search and Embeddings](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17190494)
 ### 08. Inspect Rich Documents with Gemini Multimodality and Multimodal RAG: Challenge Lab
 #### Challenge Scenario
 You are a Marketing Campaign Coordinator at a media company, working closely with the Marketing Manager to plan, execute, and evaluate campaigns to meet sales targets. Recently, you secured an exciting new contract with Google. As a Marketing Campaign Coordinator, you’re eager to dive into the materials that will help you familiarize yourself with the Google brand and Google brand identity as quickly as possible. Therefore, you plan to review Google’s brand guidelines, previous campaigns, product ads, customer testimonials, and financial reports by leveraging Gemini’s innovative capabilities to gain deeper insights into Google more efficiently.
