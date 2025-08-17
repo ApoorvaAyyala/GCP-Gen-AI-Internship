@@ -21,11 +21,15 @@ I've learnt to:
 • Describe LLM Use Cases
 • Dxplain Prompt Tuning 
 • Describe Google’s Gen AI Development tools
+
+Skill Badge: [Introduction to Large Language Models](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/6221528)
 ### 03. Introduction to Responsible AI
 • Understood why Google has put AI principles in place
 • Identified the need for a responsible AI practice within an organization 
 • Recognized that decisions made at all stages of a project have an impact on responsible AI 
 • Recognized that organizations can design AI to fit their own business needs and values
+
+Skill Badge: [Introduction to Responsible AI](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/6222597)
 ### 04. Prompt Design in Vertex AI: Challenge Lab
 #### Challenge Scenario
 You're a member of an educational content startup specializing in engaging learners with the natural world. You've formed a partnership with Cymbal Direct, an online retailer launching a new line of outdoor gear and apparel designed to encourage young people to explore and connect with nature.
@@ -69,6 +73,8 @@ Task 4. Experimented with tagline generation code
 ⋆ Managed model interactions (multi-turn chat, content streaming, asynchronous requests).
 
 ⋆ Used advanced features (token counting, context caching, function calling, batch prediction, text embeddings).
+
+Skill Badge: [Prompt Design in Vertex AI](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17089663)
 ### 05. Responsible AI: Applying AI Principles with Google Cloud
 • Learnt about the impact of AI technology and Google's approach to responsible AI, and was also introduced to Google's AI Principles
 • Learnt about how to make a business case for responsible AI, based on the report 'The Business Case for Ethics by Design' by the Economist Intelligence Unit
@@ -77,25 +83,41 @@ Task 4. Experimented with tagline generation code
 • Learnt about the practical application of responsible AI and how to operationalize AI principles by setting up and running reviews
 • Learnt about the process of identifying possible ethical issues and identify issue spotting questions to think critically about the potential benefits and harms of a use case
 • Learnt about the next steps and resources I can use to continue my responsible AI journey.
+
+Skill Badge: [Applying AI Principles with Google Cloud](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17096193)
 ## Advanced: Generative AI for Developers Learning Path
 ### 01. Introduction to Image Generation
 Had a sneak peek about diffusion models - the theory behind diffusion models and how to train and deploy them on Vertex AI. 
+
+Skill badge: [Introduction to Image Generation](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17121495)
 ### 02. Attention Mechanism
 Learnt how attention(a powerful technique that allows neural networks to focus on specific parts of an input sequence) works, how it can be used to improve the performance of a variety of machine learning tasks, including machine translation, text summarization and question answering.
+
+Skill badge: [Attention Mechanism](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17121734)
 ### 03. Encoder-Decoder Architecture
 Learnt about the stages in encoder-decoder architecture. Applied this technique to feed the source language sentence to the encoder and then compute the error between what the decoder generates and the actual translation.
 
 [Encoder-Decoder Architecture](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/main/Encoder-Decoder%20Architecture.ipynb)
+
+Skill Badge: [Encoder-Decoder Architecture](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17121943)
 ### 04. Transformer Models and BERT Model
 Learnt about the main components of the Transformer architecture, such as the self-attention mechanism, and how it is used to build the BERT model. I've also learnt about the different tasks that BERT can be used for, such as text classification, question answering, and natural language inference.
 
 [Transformer Models and BERT Model](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/main/Transformer%20Models%20and%20BERT%20Model)
+
+Skill Badge : [Transformer Models and BERT Model](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17136271)
 ### 05. Create Image Captioning Models
 Created an image captioning model by using deep learning. Also learned about the different components of an image captioning model, such as the encoder and decoder, and how to train and evaluate your model. Was also able to create your own image captioning models and use them to generate captions for images.
+
+Skill Badge: [Create Image Captioning Models](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17173141)
 ### 06. Introduction to Vertex AI Studio
 I was introduced Vertex AI Studio, a tool to interact with generative AI models, prototype business ideas, and launch them into production. Through an immersive use case, engaging lessons, and a hands-on lab, I had the chance to explore the prompt-to-product lifecycle and learn how to leverage Vertex AI Studio for Gemini multimodal applications, prompt design, prompt engineering, and model tuning.
+
+Skill Badge: [Introduction to Vertex AI Studio](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17173350)
 ### 07. Vector Search and Embeddings
 Explored AI-powered search technologies, tools, and applications in this course. Learnt semantic search utilizing vector embeddings, hybrid search combining semantic and keyword approaches, and retrieval-augmented generation (RAG) minimizing AI hallucinations as a grounded AI agent. Gained practical experience with Vertex AI Vector Search to build your intelligent search engine.
+
+Skill Badge: [Vector Search and Embeddings](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17190494)
 ### 08. Inspect Rich Documents with Gemini Multimodality and Multimodal RAG: Challenge Lab
 #### Challenge Scenario
 You are a Marketing Campaign Coordinator at a media company, working closely with the Marketing Manager to plan, execute, and evaluate campaigns to meet sales targets. Recently, you secured an exciting new contract with Google. As a Marketing Campaign Coordinator, you’re eager to dive into the materials that will help you familiarize yourself with the Google brand and Google brand identity as quickly as possible. Therefore, you plan to review Google’s brand guidelines, previous campaigns, product ads, customer testimonials, and financial reports by leveraging Gemini’s innovative capabilities to gain deeper insights into Google more efficiently.
@@ -129,6 +151,8 @@ Task 2. Retrieve and integrate knowledge with multimodal retrieval augmented gen
 ⋆ Searched the metadata with image queries to find similar images
 
 ⋆ Using a text query as input, searched for contextual answers using both text and images
+
+Skill Badge: [Inspect Rich Documents with Gemini Multimodality and Multimodal RAG](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17212927)
 ### 09. Responsible AI for Developers: Fairness & Bias
 I've learnt to:
 
@@ -139,8 +163,8 @@ I've learnt to:
 • Compared the result between the baseline and MinDiff models
 
 [Mitigate Bias with MinDiff in Tensorflow](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/main/Mitigate%20Bias%20with%20MinDiff%20in%20TensorFlow.ipynb)
-#### Mitigate Bias with MinDiff in TensorFlow Lab's Key Takeaways:
 
+#### Mitigate Bias with MinDiff in TensorFlow Lab's Key Takeaways:
 Got to know Google's seven AI principles:
 1. Be socially beneficial; 
 2. Avoid creating or reinforcing unfair bias; 
@@ -151,6 +175,8 @@ Got to know Google's seven AI principles:
 7. Be made available for uses that accord with these principles.
 
 Learned about techniques that help mitigate bias - the refining data collection pipeline, balancing data, augmenting with other data, and relabeling data techniques all help mitigate bias in data and threshold calibration, MinDiff and counterfactual logic pairing help mitigate bias in models.
+
+Skill Badge: [Responsible AI for Developers: Fairness & Bias](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17262676)
 ### 10. Responsible AI for Developers: Interpretability & Transparency
 I've been introduced to:
 
@@ -169,6 +195,7 @@ Got a hands on experience on:
 3. Served predictions with explanations;
 4. Visualized feature attributions from Integrated Gradients.
 
+Skill Badge: [Responsible AI for Developers: Interpretability & Transparency](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17271639)
 ### 11 Responsible AI for Developers: Privacy & Safety
 This course introduced me to the important topics of AI privacy and safety.
 #### Differential Privacy in Machine Learning with TensorFlow Privacy Lab's Keytakeaways:
@@ -183,10 +210,13 @@ This course introduced me to the important topics of AI privacy and safety.
 1. Called the Vertex AI Gemini API and inspect safety ratings of the responses
 2. Defined a threshold for filtering safety ratings according to needs
 
+Skill Badge: [Responsible AI for Developers: Privacy & Safety](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17320031)
 ### 12 Machine Learning Operations (MLOps) for Generative AI
 • I have recognized the evolution of MOps and its pivotal role in shaping the future of AI development
 • Explored the emerging framework of ML Ops, specifically tailored for generative AI applications, and explained the unique challenges faced by MLOps teams when deploying and managing these models
 • Equipped with this knowledge, I have explored how Vertex AI empowers teams to streamline MLOps processes and achieve success with generative AI projects.
+
+Skill Badge: [Machine Learning Operations (MLOps) for Generative AI](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17320088)
 ## Gemini for Google Cloud Learning Path
 ### 01 Gemini for Application Developers
 #### Develop an app with Gemini Lab's Keytakeaways:
@@ -207,4 +237,6 @@ Files:
 
 #### Testing the app after deploying locally:
 ![Alt text](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/7eeb8218b4d1f65e580e225278c50dcfca96e7a9/Deploy_Test.png)
+
+Skill Badge: [Gemini for Application Developers](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17596499)
 ### 02 Gemini for Cloud Architects
