@@ -188,8 +188,12 @@ This course introduced me to the important topics of AI privacy and safety.
 ## Gemini for Google Cloud Learning Path
 ### 1 Gemini for Application Developers
 #### Develop an app with Gemini Lab's Keytakeaways:
-1. Create a cloud-based application development environment by using Cloud Workstations;
+1. Created a cloud-based application development environment by using Cloud Workstations;
 2. Explore various Google services that you can use to deploy an app by asking Gemini context-based questions;
 3. Prompt Gemini to provide templates that you can use to develop a basic app in Cloud Run;
 4. Create, explore, and modify the app by using Gemini to explain and generate the code;
 5. Run and test the app locally, and then deploy it to Google Cloud by using Gemini to generate the steps.
+![Alt text](path/to/image)
+My Wrokstation
+![Alt text](path/to/image)
+Testing the app after deploying locally
