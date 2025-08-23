@@ -276,3 +276,4 @@ In this course, I've learnt how Gemini, a generative AI-powered collaborator fro
 ![Alt text](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/99a1c489bb3daf2a274c660117454107e470f0cb/Privatenet.png)
 #### Checked the VPC Network Creation:
 ![Alt text](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/99a1c489bb3daf2a274c660117454107e470f0cb/VPC_Chk.png)
+###### Skill Badge: [Gemini for Network Engineers](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17760911)
