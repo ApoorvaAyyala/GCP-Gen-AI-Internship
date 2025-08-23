@@ -267,3 +267,4 @@ In this course, I've learnt how Gemini, a generative AI-powered collaborator fro
 
 [Colab Enterprise Python notebook inside BigQuery Studio](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/34eafe971ab57e0a6b4fedaffa800df14dd3e3a2/BigQuery.ipynb)
 ###### Skill Badge: [Gemini for Data Scientists and Analysts](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17759853)
+### 04 Gemini for Network Engineers
