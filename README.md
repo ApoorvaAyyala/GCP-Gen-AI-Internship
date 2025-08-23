@@ -253,7 +253,15 @@ In this course, I've learnt how Gemini, a generative AI-powered collaborator fro
 1. Used Gemini to answer your questions about Google Cloud data analytics products and use cases;
 2. Prompt Gemini to explain and generate SQL queries in BigQuery;
 3. Build a machine learning (ML) model to forecast future periods.
-#### Analysed Data Results as a CSV file:
+##### Analysed Data Results as a CSV file:
 [Results of usage of Gemini to analyze data](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/b9460056327afd537d6765dfb3f373b8a564c189/bquxjob_208a759d_198d69d1b6b.csv)
-#### Buillt a forecasting model and viewed results:
+##### Buillt a forecasting model and viewed results:
 [Results of the Forecasting Model](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/b9460056327afd537d6765dfb3f373b8a564c189/bquxjob_17cb9c52_198d6a2b78a.csv)
+#### Gemini for Data Scientists Lab's Keytakeaways:
+1. Used Colab Enterprise Python notebooks inside BigQuery Studio;
+2. Used BigQuery DataFrames inside of BigQuery Studio;
+3. Used Gemini to generate code from natural language prompts;
+4. Built a K-means clustering model;
+5. Generated a visualization of the clusters;
+6. Used the Gemini Pro model to develop the next steps for a marketing campaign.
+[Colab Enterprise Python notebooks inside BigQuery Studio](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/34eafe971ab57e0a6b4fedaffa800df14dd3e3a2/BigQuery.ipynb)
