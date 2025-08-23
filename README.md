@@ -272,3 +272,7 @@ In this course, I've learnt how Gemini, a generative AI-powered collaborator fro
 1. Enabled Gemini;
 2. With help from Gemini, created a VPC network;
 3. With help from Gemini, verified that the VPC network was created.
+#### Created a VPC network and named it "privatenet":
+![Alt text](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/99a1c489bb3daf2a274c660117454107e470f0cb/Privatenet.png)
+#### Checked the VPC Network Creation:
+![Alt text](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/99a1c489bb3daf2a274c660117454107e470f0cb/VPC_Chk.png)
