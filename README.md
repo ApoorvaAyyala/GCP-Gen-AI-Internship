@@ -253,3 +253,7 @@ In this course, I've learnt how Gemini, a generative AI-powered collaborator fro
 1. Used Gemini to answer your questions about Google Cloud data analytics products and use cases;
 2. Prompt Gemini to explain and generate SQL queries in BigQuery;
 3. Build a machine learning (ML) model to forecast future periods.
+#### Analysed Data Results as a CSV file:
+[Results of usage of Gemini to analyze data](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/b9460056327afd537d6765dfb3f373b8a564c189/bquxjob_208a759d_198d69d1b6b.csv)
+#### Buillt a forecasting model and viewed results:
+[Results of the Forecasting Model](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/b9460056327afd537d6765dfb3f373b8a564c189/bquxjob_17cb9c52_198d6a2b78a.csv)
