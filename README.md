@@ -240,3 +240,10 @@ Python Files:
 
 ###### Skill Badge: [Gemini for Application Developers](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17596499)
 ### 02 Gemini for Cloud Architects
+In this module I've learnt how Gemini, a generative AI-powered collaborator from Google Cloud, helps administrators provision infrastructure; how to prompt Gemini to explain infrastructure, deploy GKE clusters and update existing infrastructure. Using a hands-on lab, I've also experienced how Gemini improves the GKE deployment workflow.
+#### Provision Cloud Infrastructure with Gemini Lab's Keytakeaways:
+1. Enable Gemini;
+2. Explored various Google services that you can use to deploy an app to GKE by asking Gemini context-based questions;
+3. Prompted Gemini to provide commands that you can use to deploy a basic app to a GKE cluster;
+4. Created, explored, and modified the GKE cluster by using Gemini to explain and generate the shell commands.
+###### Skill Badge: [Gemini for Cloud Architects](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17597213)
