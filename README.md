@@ -264,4 +264,5 @@ In this course, I've learnt how Gemini, a generative AI-powered collaborator fro
 4. Built a K-means clustering model;
 5. Generated a visualization of the clusters;
 6. Used the Gemini Pro model to develop the next steps for a marketing campaign.
+
 [Colab Enterprise Python notebooks inside BigQuery Studio](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/34eafe971ab57e0a6b4fedaffa800df14dd3e3a2/BigQuery.ipynb)
