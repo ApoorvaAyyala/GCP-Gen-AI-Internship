@@ -247,3 +247,5 @@ In this module I've learnt how Gemini, a generative AI-powered collaborator from
 3. Prompted Gemini to provide commands that you can use to deploy a basic app to a GKE cluster;
 4. Created, explored, and modified the GKE cluster by using Gemini to explain and generate the shell commands.
 ###### Skill Badge: [Gemini for Cloud Architects](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17597213)
+### 03 Gemini for Data Scientists and Analysts
+In this course, I've learnt how Gemini, a generative AI-powered collaborator from Google Cloud, helps analyze customer data and predict product sales. I've also learnt how to identify, categorize, and develop new customers using customer data in BigQuery. Using hands-on labs, I have experienced how Gemini improves data analysis and machine learning workflows.
