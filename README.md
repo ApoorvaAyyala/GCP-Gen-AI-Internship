@@ -277,3 +277,12 @@ In this course, I've learnt how Gemini, a generative AI-powered collaborator fro
 #### Checked the VPC Network Creation:
 ![Alt text](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/99a1c489bb3daf2a274c660117454107e470f0cb/VPC_Chk.png)
 ###### Skill Badge: [Gemini for Network Engineers](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17760911)
+### 05 Gemini for Security Engineers
+#### Navigate Security Decisions with Gemini lab's Keytakeaway's:
+In this lab, you will learn how to perform the following tasks:
+1. Enable Gemini in a Google Cloud project;
+2. Deploy example workloads into an environment in Google Cloud;
+3. Identify security misconfigurations with Gemini;
+4. Remediate security misconfigurations with Gemini.
+#### The Deployed Web APP:
+http://34.11.142.107/
