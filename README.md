@@ -288,7 +288,6 @@ In this lab, I have learned how to perform the following tasks:
 4. Remediate security misconfigurations with Gemini.
 #### The Deployed Web APP:
 http://34.11.142.107/
-![Alt text](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/f82b0a652bf02ab222562f1d6fb1af2944af3c2a/Deploy_Test.png)
 ###### Skill Badge: [Gemini for Security Engineers](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17888738)
 ### 06 Gemini for DevOps Engineers
 I have learned how Gemini, a generative AI-powered collaborator from Google Cloud, helps engineers manage infrastructure. Also learned how to prompt Gemini to find and understand application logs, create a GKE cluster, and investigate how to create a build environment. Using a hands-on lab, I have experienced how Gemini improves the DevOps workflow.
