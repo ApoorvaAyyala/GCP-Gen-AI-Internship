@@ -1,6 +1,8 @@
 # GCP-Gen-AI-Internship
 Google Cloud Generative AI
 
+###### Intenship Certificate : [Google Cloud Generative AI Virtual Internship](https://skillwallet.smartinternz.com/certificate/virtual-internship/15fd459bc66aa8401543d8f4d1d80d97)
+
 In this virtual internship, I've had 3 main modules.
 The Modules include Beginner: Introduction to Generative AI Learning Path, Advanced: Generative AI for Developers Learning Path & lastly, Gemini for Google Cloud Learning Path
 
@@ -279,10 +281,36 @@ In this course, I've learnt how Gemini, a generative AI-powered collaborator fro
 ###### Skill Badge: [Gemini for Network Engineers](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17760911)
 ### 05 Gemini for Security Engineers
 #### Navigate Security Decisions with Gemini lab's Keytakeaway's:
-In this lab, you will learn how to perform the following tasks:
+In this lab, I have learned how to perform the following tasks:
 1. Enable Gemini in a Google Cloud project;
 2. Deploy example workloads into an environment in Google Cloud;
 3. Identify security misconfigurations with Gemini;
 4. Remediate security misconfigurations with Gemini.
 #### The Deployed Web APP:
 http://34.11.142.107/
+![Alt text](https://github.com/ApoorvaAyyala/GCP-Gen-AI-Internship/blob/f82b0a652bf02ab222562f1d6fb1af2944af3c2a/Deploy_Test.png)
+###### Skill Badge: [Gemini for Security Engineers](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17888738)
+### 06 Gemini for DevOps Engineers
+I have learned how Gemini, a generative AI-powered collaborator from Google Cloud, helps engineers manage infrastructure. Also learned how to prompt Gemini to find and understand application logs, create a GKE cluster, and investigate how to create a build environment. Using a hands-on lab, I have experienced how Gemini improves the DevOps workflow.
+#### Implement continuous delivery with Gemini Lab's Key Takeaways:
+In this lab, I have learned how to perform the following tasks:
+1. With help from Gemini, create a GKE cluster;
+2. Deploy a set of microservices to GKE;
+3. Find and understand application logs with help from Gemini;
+4. Use Gemini to investigate how to create a private build environment.
+###### Skill Badge: [Gemini for DevOps Engineers](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17914565)
+### 07 Gemini for end-to-end SDLC
+In this course, I learned how Gemini, a generative AI-powered collaborator from Google Cloud, helps you use Google products and services to develop, test, deploy, and manage applications. With help from Gemini, I learned how to develop and build a web application, fix errors in the application, develop tests, and query data. Using a hands-on lab, I have experienced how Gemini improves the software development lifecycle (SDLC).
+#### Using Gemini Throughout the Software Development Lifecycle Lab's Key Takeaways:
+In this lab, I used Gemini to perform the following tasks:
+1. Use Gemini Code Assist in the Cloud Shell editor to build a web application;
+2. Deploy the application to Cloud Run;
+3. Prompt Gemini to explain an error in the application and provide a fix;
+4. Develop integration tests for the application with help from Gemini;
+5. Use Gemini Cloud Assist with BigQuery to learn how to load data in a table, and to generate and explain a query;
+6. Use Gemini Cloud Assist with Spanner to query transaction data;
+7. Learn how to view application logs with help from Gemini Cloud Assist.
+###### Skill Badge: [Gemini for end-to-end SDLC](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17914616)
+### 08 Develop GenAI Apps with Gemini and Streamlit
+Demonstrated skills in the following: text generation, applying function calls with the Python SDK and the Gemini API, and deploying a Streamlit application with Cloud Run. Explored different ways to prompt Gemini for text generation, use Cloud Shell to test and iterate on a Streamlit application, and then package it as a Docker container deployed in Cloud Run.
+###### Skill Badge: [Develop GenAI Apps with Gemini and Streamlit](https://www.cloudskillsboost.google/public_profiles/79bf349e-6819-431a-8472-82fbf787d6bf/badges/17996440)
