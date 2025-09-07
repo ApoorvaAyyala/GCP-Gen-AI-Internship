@@ -1,7 +1,7 @@
 # GCP-Gen-AI-Internship
 Google Cloud Generative AI
 
-###### Intenship Certificate : [Google Cloud Generative AI Virtual Internship](https://skillwallet.smartinternz.com/certificate/virtual-internship/15fd459bc66aa8401543d8f4d1d80d97)
+###### Internship Certificate : [Google Cloud Generative AI Virtual Internship](https://skillwallet.smartinternz.com/certificate/virtual-internship/15fd459bc66aa8401543d8f4d1d80d97)
 
 In this virtual internship, I've had 3 main modules.
 The Modules include Beginner: Introduction to Generative AI Learning Path, Advanced: Generative AI for Developers Learning Path & lastly, Gemini for Google Cloud Learning Path
